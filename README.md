@@ -6,7 +6,7 @@ You can find the model implemented using Gradio on HuggingFace Spaces: SamuelMil
 
 ## Goal: ##
 
-The goal is to fine tune the T% transformer for the task of summarizing text. 
+The goal is to fine tune the T5 transformer for the task of summarizing text. 
 
 
 ## Data: ##
