@@ -22,6 +22,9 @@ The SAMSum dataset contains about 16k messenger-like conversations with summarie
 
 ## Results: ##
 
+
+For evaluating the text summarizer, I decided to go with BLEU and ROUGE scores. For ROUGE, I chose to start ROUGE-L ('rougeLsum'), it seeming most appropriate as a summarization metric.
+
 In terms of the metrics, it could have done much better. I'll still be tweaking some stuff but some things I've noticed initially:
 
   - There are grammar issues. Code will be needed to smooth this out.
